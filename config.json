@@ -1,0 +1,17 @@
+{
+  "options": {
+    "paths": {
+      "root": "",
+      "mbtiles": "."
+    }
+  },
+  "data": {
+    "2017": { "mbtiles": "2017.mbtiles" },
+    "2018": { "mbtiles": "2018.mbtiles" },
+    "2019": { "mbtiles": "2019.mbtiles" },
+    "2020": { "mbtiles": "2020.mbtiles" },
+    "2021": { "mbtiles": "2021.mbtiles" },
+    "2022": { "mbtiles": "2022.mbtiles" },
+    "2023": { "mbtiles": "2023.mbtiles" }
+  }
+}
